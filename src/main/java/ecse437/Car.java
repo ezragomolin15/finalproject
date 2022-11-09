@@ -18,7 +18,7 @@ public class Car {
     }
 
     public int getPrice(){
-        return 0;
+        return this.price;
     }
 
     public String getBrand(){
