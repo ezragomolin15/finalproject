@@ -18,4 +18,4 @@
     - Have test classes for java classes unit tests and a test class for integration tests that run on every pull/push request
 
 ## Test for demo
-  - Test push
+  - Test push for demo
