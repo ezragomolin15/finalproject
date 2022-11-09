@@ -27,7 +27,7 @@ public class User {
     public int getBill(){
         int total = 0;
         for (int i=0; i<this.reservations.size(); i++){
-            total=reservations.get(i).getPrice();
+            total+=reservations.get(i).getPrice();
         }
         return total;
     }
