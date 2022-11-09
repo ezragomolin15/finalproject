@@ -15,7 +15,7 @@ public class Flight {
 
     public String getLocationFrom(){
         
-        return "";
+        return this.locationFrom;
     }
 
     public String getLocationTo(){
