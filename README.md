@@ -10,3 +10,9 @@
 
 ## Automatic Build System
     - Using maven.yml file that builds and runs test on every push/merge
+    
+## Code Review and Feedback
+    - Using github pull requests/comments
+    
+## Unit Tests + Integration Tests
+    - Have test classes for java classes unit tests and a test class for integration tests that run on every pull/push request
